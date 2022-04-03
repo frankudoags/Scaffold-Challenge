@@ -1,3 +1,7 @@
+LIVE SITE: http://unusual-substance.surge.sh/
+
+RINKEBY URL: https://rinkeby.etherscan.io/address/0x67F6c2aa8a84d6A42F1E7beC92826a44364E486d#code
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
