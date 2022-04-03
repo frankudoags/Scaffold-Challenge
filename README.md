@@ -1,3 +1,7 @@
+LIVESITE: http://humorous-leather.surge.sh/
+
+RINKEBY CODE: https://rinkeby.etherscan.io/address/0xE2A2CE4F56B56a7eD2178Ef3F5a31cb3ED9110DC#code
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 0: 🎟 Simple NFT Example 🤓
